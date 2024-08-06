@@ -126,7 +126,7 @@ The results demonstrate the power of combining deep learning with advanced sampl
 ### 1. Correlation with Class (Fraudulent or Not)
 
 <div align="center">
-    <img width="500" alt="Correlation with Class" src="https://github.com/user-attachments/assets/correlation_class.png">
+    <img width="644" alt="Screenshot 2024-08-06 at 4 28 28 AM" src="https://github.com/user-attachments/assets/5bcb50e0-c3db-463e-93f8-748b263a5a05">
     <p><strong>Feature Correlation with Fraudulent Transactions</strong></p>
 </div>
 
@@ -141,7 +141,7 @@ This bar chart shows the correlation of various features (V1-V28) with the targe
 ### 2. ROC Curve for Random Forest Classifier
 
 <div align="center">
-    <img width="500" alt="ROC Curve for Random Forest" src="https://github.com/user-attachments/assets/roc_curve_rf.png">
+    <img width="337" alt="Screenshot 2024-08-06 at 4 29 45 AM" src="https://github.com/user-attachments/assets/c009c61c-07a0-405d-8dad-57ca72d35421">
     <p><strong>ROC Curve for Random Forest Classifier</strong></p>
 </div>
 
@@ -155,9 +155,10 @@ This plot shows the Receiver Operating Characteristic (ROC) curve for the Random
 ### 3. Model Performance Comparison
 
 <div align="center">
-    <img width="500" alt="Model Performance Comparison" src="https://github.com/user-attachments/assets/model_comparison.png">
+    <img width="468" alt="Screenshot 2024-08-06 at 4 30 39 AM" src="https://github.com/user-attachments/assets/0f7bb4ea-54b5-4bfd-be61-bcc4a94c5d66">
     <p><strong>Comparison of Different Models and Techniques</strong></p>
 </div>
+
 
 #### Description:
 This table compares the performance metrics of different models used in the project.
@@ -170,7 +171,7 @@ This table compares the performance metrics of different models used in the proj
 ### 4. Confusion Matrix for Best Model
 
 <div align="center">
-    <img width="500" alt="Confusion Matrix for Best Model" src="https://github.com/user-attachments/assets/confusion_matrix_best_model.png">
+    <img width="285" alt="Screenshot 2024-08-06 at 4 31 19 AM" src="https://github.com/user-attachments/assets/d41cb888-459c-41cc-9215-bf68e05643ed">
     <p><strong>Confusion Matrix of Best Performing Model on Full Dataset</strong></p>
 </div>
 
