@@ -32,9 +32,13 @@ This project aims to develop an effective credit card fraud detection system usi
 - Handling Imbalanced Datasets
 - Model Evaluation and Comparison
 
+
 ## Dataset
 
-The dataset contains credit card transactions made over a two-day period, where we have 492 frauds out of 284,807 transactions. Key features include:
+You can download the dataset from the following Dropbox link:
+[Credit Card Fraud Detection Dataset](https://www.dropbox.com/scl/fi/7umj4vjaprft83guxsczj/creditcard.csv?rlkey=3n1wlw6y13iv8t1zyqee2ow3o&st=tdsxqgya&dl=0)
+
+The dataset used in this project contains credit card transactions made over a two-day period, with 492 frauds out of 284,807 transactions. Key features include:
 
 - `Time`: Seconds elapsed between each transaction and the first transaction
 - `Amount`: Transaction amount
@@ -45,7 +49,7 @@ The dataset contains credit card transactions made over a two-day period, where 
 - Highly unbalanced: Only 0.172% of transactions are fraudulent
 - All numerical input variables
 - No missing values
-
+- 
 ## Methodology
 
 ### Data Preprocessing
